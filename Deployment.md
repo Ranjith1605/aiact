@@ -13,7 +13,7 @@ This document outlines the steps to deploy the AI Regulations Matrix website to 
 
 1. Go to [GitHub](https://github.com) and log in to your account
 2. Click on the "+" icon in the top right corner and select "New repository"
-3. Name your repository `ai-regulations-matrix`
+3. Name your repository `aiact`
 4. Choose to make it public
 5. Click "Create repository"
 
@@ -66,10 +66,10 @@ The GitHub Actions workflow will automatically run when you push to the main bra
 After the workflow completes successfully, your site will be available at:
 
 ```
-https://yourusername.github.io/ai-regulations-matrix/
+https://Ranjith1605.github.io/aiact/
 ```
 
-Replace `yourusername` with your actual GitHub username.
+Replace `Ranjith1605` with your actual GitHub username.
 
 ## Notes on GitHub Pages deployment
 
