@@ -37,3 +37,4 @@ npm run dev
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
+mit
